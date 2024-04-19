@@ -5,7 +5,7 @@ A simple javascript translation engine for translating basic HTML pages.
 ### Import via server
 Add this line to your HTML file
 
-```<script src="https://jarok.me/lib/translationEngine.js></script>```
+```<script src="https://jarok.me/lib/translationEngine.js"></script>```
 
 <hr>
 
