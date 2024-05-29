@@ -1,5 +1,5 @@
-# Welcome to Translation Engine.
-A simple javascript translation engine for translating basic HTML pages.
+# Welcome to Translation Engine
+A simple javascript library for making basic HTML pages available in multiple languages.
 
 ## Import
 ### Import via server
